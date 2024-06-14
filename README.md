@@ -1,3 +1,6 @@
+### Fork by imerzan
+This fork contains customizations to [Vmmsharp](https://github.com/imerzan/MemProcFS/tree/master/vmmsharp), otherwise is the same.
+
 MemProcFS:
 ===============================
 MemProcFS is an easy and convenient way of viewing physical memory as files in a virtual file system. 
